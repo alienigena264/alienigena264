@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Pablo Garcia</h1>
-<h3 align="center">A passionate developer with interests in mobile and AI</h3>
+<h3 align="left">I am interested in mobile and backend development, I hope in the future to be able to work in AI development due to its great potential for change </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alienigena264&label=Profile%20views&color=efa6aa&style=flat" alt="alienigena264" /> </p>
 
@@ -14,6 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/juan pablo garcia otalora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan pablo garcia otalora" height="30" width="40" /></a>
+<a href="https://instagram.com/juan_garcia.nacl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juan_garcia.nacl" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@jgarciaot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@jgarciaot" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@juan350" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@juan350" height="30" width="40" /></a>
 </p>
