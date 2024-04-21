@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alienigena264&label=Profile%20views&color=efa6aa&style=flat" alt="alienigena264" /> </p>
 
-- 🔭 I’m currently working on **chazaUNApp**
+- 🔭 I’m currently working on **Glocation**
 
 - 🌱 I’m currently learning **Go and React**
 
