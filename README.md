@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Glocation**
 
-- 🌱 I’m currently learning **Go and React**
+- 🌱 I’m currently learning **Go**
 
 - 🤝 I’m looking for help with **any project related with mobile develop**
 
